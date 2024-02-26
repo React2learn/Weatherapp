@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  max-width: 400px;
+  margin: auto;
+
+
+}
+
+input {
+  padding: 7px;
+  font-family: math;
+}
+
+button {
+  padding: 7px;
+  margin-left: 4px;
+  cursor: pointer;
+  background-color: blueviolet;
+  color: aliceblue;
+  border-color: blueviolet;
+  font-family: math;
+}
+
+.datadisplay {
+  text-align: center;
+  padding-top: 20px;
+  font-family: math;
+}
+
+p {
+  padding-top: 7px;
+}
